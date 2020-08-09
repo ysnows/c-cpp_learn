@@ -1,0 +1,3 @@
+/Users/ysnows/www/practice/c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ysnows/www/practice/c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ysnows/www/practice/c/cmake-build-debug/CMakeFiles/c.dir

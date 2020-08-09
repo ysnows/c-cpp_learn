@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ysnows/www/practice/c/main.c
+struct_learn.c
+/Users/ysnows/www/practice/c/struct_learn.c
+
+/Users/ysnows/www/practice/c/struct_learn.c
+stdio.h
+/Users/ysnows/www/practice/c/stdio.h
+string.h
+-
+
