@@ -1,9 +1,7 @@
 
-#include "error_learn.c"
+#include "recursion_learn.c"
 
 int main() {
-
-    divisorZeroError();
 
     return 0;
 }
