@@ -139,8 +139,15 @@ struct A {
     struct B *b;
 };
 
-void printBookPointerDesc(struct Books *book){
+void printBookPointerDesc(struct Books *book) {
     printf("title is %s\n", book->title);
     printf("author is %s\n", book->author);
     printf("subject is %s\n", book->subject);
 }
+
+
+struct Hello {
+    int a:1;
+    int b:4;
+    int c:5;
+} ss;

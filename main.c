@@ -1,6 +1,10 @@
-#include "struct_learn.c"
+#include <stdio.h>
+#include <stdint.h>
+#include "cpreprocessor_learn.c"
 
 int main() {
-    printBookPointer();
+
+    preprocessorArichmetic();
+
     return 0;
 }
