@@ -1,11 +1,10 @@
 
-#include "memory_manage_learn.c"
+
+#include "cmd_params_learn.c"
 
 
-int main() {
-
-    example1();
-
+int main(int argc, char *argv[]) {
+    example(argc, argv);
 
     return 0;
 }
