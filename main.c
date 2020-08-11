@@ -1,10 +1,10 @@
 
 
-#include "cmd_params_learn.c"
 
+#include "sort_algorithm.c"
 
 int main(int argc, char *argv[]) {
-    example(argc, argv);
+    bubbleSortExample();
 
     return 0;
 }
